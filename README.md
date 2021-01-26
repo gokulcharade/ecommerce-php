@@ -1,4 +1,4 @@
-# PHP Ecommerce | By Curtis Parham
+# PHP Ecommerce 
 An ecommerce web project using PHP, MySQL and Bootstrap by *Curtis Parham*.
 Wanna see his youtube playlist? Click [me](https://www.youtube.com/playlist?list=PLFPkAJFH7I0mitTSKDaoxwfLLf-wNNnVS).
 
