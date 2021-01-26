@@ -1,6 +1,5 @@
 # PHP Ecommerce 
-An ecommerce web project using PHP, MySQL and Bootstrap by *Curtis Parham*.
-Wanna see his youtube playlist? Click [me](https://www.youtube.com/playlist?list=PLFPkAJFH7I0mitTSKDaoxwfLLf-wNNnVS).
+An ecommerce web project using PHP, MySQL and Bootstrap.
 
 #### Setup Database
 1. Go to localhost/phpmyadmin and create a database;
